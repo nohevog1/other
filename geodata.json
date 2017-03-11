@@ -1,0 +1,145 @@
+var tweets = {
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.20182661, 
+                    39.09415072
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Getting work done", 
+                "created_at": "Sat Mar 11 18:37:52 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.17536291, 
+                    39.08807126
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hey sunshine @rihanna", 
+                "created_at": "Sat Mar 11 18:01:37 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.15394298, 
+                    39.055421
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Almost there", 
+                "created_at": "Sat Mar 11 17:58:35 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.10603822, 
+                    39.02217611
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nothing good on radio", 
+                "created_at": "Sat Mar 11 17:55:11 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.09507645, 
+                    39.01508544
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gotta get to 10 tweets", 
+                "created_at": "Sat Mar 11 17:53:57 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.08305873, 
+                    39.00583014
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Not looking forward to being in school", 
+                "created_at": "Sat Mar 11 17:52:32 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.93628247, 
+                    39.04117445
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Traffic is not looking so good", 
+                "created_at": "Sat Mar 11 17:40:50 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.9434059, 
+                    39.05569073
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Could have done with some breakfast this morning", 
+                "created_at": "Sat Mar 11 17:38:44 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.94491323, 
+                    39.06609632
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "On my way to school. So much fun :(", 
+                "created_at": "Sat Mar 11 17:35:30 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.94350796, 
+                    39.06873063
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Guten Morgen", 
+                "created_at": "Sat Mar 11 15:36:19 +0000 2017"
+            }
+        }
+    ]
+}
